@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="Start Page Editor"/>
+	<DiagramOpenInfos activeDiagramId="c__lkgmGAqCmAQWs">
+		<Info bounds="Re:0.0,0.0,982.0,600.0" diagramId="c__lkgmGAqCmAQWs" maximized="true" offsetX="610" offsetY="90"/>
+	</DiagramOpenInfos>
 	<DiagramLastActivated>
+		<Diagram id="c__lkgmGAqCmAQWs" time="1719222666041"/>
 		<Diagram id="Use Case Statement" time="0"/>
 		<Diagram id="Use Case" time="0"/>
 		<Diagram id="User Story" time="0"/>
